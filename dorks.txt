@@ -1,0 +1,18 @@
+inurl:/wp-content/plugins/revslider/
+inurl:/wp-content/plugins/wp-file-manager/
+inurl:/wp-content/plugins/contact-form-7/
+inurl:/wp-content/plugins/elementor/
+inurl:/wp-content/plugins/fusion-builder/
+inurl:/wp-content/plugins/gravityforms/
+inurl:/wp-snapshots/
+inurl:/wp-content/uploads/wysija/
+inurl:/wp-content/plugins/wp-seo/
+inurl:admin-ajax.php "action=upload"
+inurl:/wp-json/wp/v2/posts
+inurl:backup
+inurl:/wp-admin/admin-ajax.php "wpgdprc_process_action"
+inurl:/wp-content/plugins/wp-database-backup/
+inurl:/wp-content/plugins/wp-live-chat-support/
+inurl:/wp-content/plugins/fv-wordpress-flowplayer/
+inurl:wp-config.bak
+inurl:wp-config.php~

@@ -40,7 +40,7 @@ def banner():
 ╚██████╔╝███████╗╚██████╔╝   ██║      ██║   ╚██████╔╝██║ ╚████║   ██║   
  ╚═════╝ ╚══════╝ ╚═════╝    ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═══╝   ╚═╝                                                                      
 {Style.RESET_ALL}
-{Fore.CYAN}Developed By: ALTAIR {Style.RESET_ALL}
+{Fore.CYAN}Developed By: LYNSS {Style.RESET_ALL}
 """
     print(ascii_art)
     print(Fore.YELLOW + "AutoExploiter Pro - WordPress Exploitation Tool")

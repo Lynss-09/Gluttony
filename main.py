@@ -70,7 +70,7 @@ def load_targets(file_path):
 # Save successful shell
 def save_shell(shell_info):
     with open('shell.txt', 'a') as f:
-        f.write(f"[{shell_info['time']}] {shell_info['site']} - {shell_info['exploit']} - {shell_info['shell_url']}\n")
+        f.write(f"{shell_info['shell_url']}\n")
 
 # Save failed target
 def save_failed(site_url):
